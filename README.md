@@ -31,6 +31,9 @@ Check the [Releases](https://github.com/KinmoCode/savio-releases/releases) tab i
 
 ## Emerging Social, Work & Livestream Video Downloaders (2026)
 
+- [CapCut Video Downloader Without Watermark (capcut.com/t/ & Templates to MP4)](https://www.saviodl.com/capcut-video-downloader)
+- [Medal Clip Downloader & Medal Bypass (Medal.tv Clips to 1080p MP4 No Watermark)](https://www.saviodl.com/medal-clip-downloader)
+- [Canva Video Downloader (Public Canva Video Links & my.canva.site to MP4)](https://www.saviodl.com/canva-video-downloader)
 - [Telegram Video Downloader (t.me Channel Posts to MP4)](https://www.saviodl.com/telegram-video-downloader)
 - [Threads Video Downloader Without Watermark (threads.net & threads.com)](https://www.saviodl.com/threads-downloader)
 - [Douyin Video Downloader Without Watermark (v.douyin.com to 1080p MP4)](https://www.saviodl.com/douyin-video-downloader)
