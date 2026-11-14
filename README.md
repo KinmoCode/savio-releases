@@ -27,3 +27,22 @@ Check the [Releases](https://github.com/KinmoCode/savio-releases/releases) tab i
 - [cobalt.tools Alternatives in 2026: Savio vs yt-dlp vs 4K Video Downloader](https://www.saviodl.com/blog/cobalt-tools-alternatives-video-downloader)
 - [How to Download Bilibili Videos in HD Without a Bilibili Account](https://www.saviodl.com/blog/how-to-download-bilibili-videos-hd)
 - [How to Remove Instagram Watermark from Downloaded Video (Reels & Stories)](https://www.saviodl.com/blog/how-to-remove-instagram-watermark-from-downloaded-video)
+
+
+## Emerging Social, Work & Livestream Video Downloaders (2026)
+
+- [Telegram Video Downloader (t.me Channel Posts to MP4)](https://www.saviodl.com/telegram-video-downloader)
+- [Threads Video Downloader Without Watermark (threads.net & threads.com)](https://www.saviodl.com/threads-downloader)
+- [Douyin Video Downloader Without Watermark (v.douyin.com to 1080p MP4)](https://www.saviodl.com/douyin-video-downloader)
+- [RedNote / Xiaohongshu Video Downloader Without Watermark (xhslink.com)](https://www.saviodl.com/rednote-video-downloader)
+- [Bluesky Video Downloader (bsky.app AT Protocol Direct MP4)](https://www.saviodl.com/bluesky-video-downloader)
+- [Loom Video Downloader Online (loom.com/share Recordings to MP4)](https://www.saviodl.com/loom-video-downloader)
+- [Wistia Video Downloader (.bin to 1080p .mp4 Converter)](https://www.saviodl.com/wistia-video-downloader)
+- [Vimeo Video Downloader (Public Vimeo Reels & Portfolios to MP4)](https://www.saviodl.com/vimeo-downloader)
+- [Twitch Clip Downloader (clips.twitch.tv to MP4)](https://www.saviodl.com/twitch-clip-downloader)
+- [Kick Clip Downloader (1080p60 Kick.com Clips to MP4)](https://www.saviodl.com/kick-clip-downloader)
+- [Rumble Video Downloader (rumble.com Watch & Embed Links to MP4)](https://www.saviodl.com/rumble-video-downloader)
+- [Streamable Video Downloader (streamable.com Clips to HD MP4)](https://www.saviodl.com/streamable-video-downloader)
+- [Dailymotion Video Downloader (dailymotion.com & dai.ly to MP4)](https://www.saviodl.com/dailymotion-downloader)
+- [Instagram Story Downloader](https://www.saviodl.com/download-instagram-story)
+- [Download Instagram Video Without Login](https://www.saviodl.com/download-instagram-video-without-login)
